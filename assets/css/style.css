@@ -50,7 +50,7 @@ h2 {
 }
 
 
-.custom-button-filled:hover{
+.custom-button-filled:hover {
     border: 2px solid var(--secondary-color);
     background-color: var(--secondary-color);
     color: white
